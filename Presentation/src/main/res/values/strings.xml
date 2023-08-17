@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="home_title">분실물</string>
+    <string name="new_title">분실물을 입력해주세요.</string>
+    <string name="new_content">내용을 입력해주세요</string>
+    <string name="new_author">작성자를 입력하세요</string>
+</resources>
